@@ -1,0 +1,21 @@
+{
+    "root":"/media/ls/FA5ECF148688E396/DataSet/visdrone_fmot",
+    "train":
+    {
+        "visdrone":"./data/visdrone.train"
+
+    },
+    "val":
+    {
+        "visdrone":"./data/visdrone.val"
+
+    },
+    "test_emb":
+    {
+        "visdrone":"./data/visdrone.train"
+    },
+    "test":
+    {
+        "visdrone":"./data/visdrone.val"
+    }
+}
